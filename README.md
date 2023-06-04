@@ -1,0 +1,2 @@
+# gomuluOdevi
+ Donem-Projesi
